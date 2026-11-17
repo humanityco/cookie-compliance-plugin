@@ -9,5 +9,16 @@
   },
   "homepage": "https://cookie-compliance.co/mcp/",
   "repository": "https://github.com/humanityco/cookie-compliance-plugin",
-  "license": "ISC"
+  "license": "ISC",
+  "logo": ".claude-plugin/icon.png",
+  "keywords": [
+    "cookie",
+    "consent",
+    "gdpr",
+    "ccpa",
+    "privacy",
+    "compliance",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://cookie-compliance.co/privacy-policy/"
 }
