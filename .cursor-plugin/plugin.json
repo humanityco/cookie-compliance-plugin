@@ -1,0 +1,12 @@
+{
+  "name": "cookie-compliance",
+  "description": "Add a cookie consent banner that blocks trackers before consent and records proof of consent. Install, configure regions, preview and manage your live banner from Cursor.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Hu-manity",
+    "url": "https://hu-manity.co"
+  },
+  "homepage": "https://cookie-compliance.co/mcp/",
+  "repository": "https://github.com/humanityco/cookie-compliance-plugin",
+  "license": "ISC"
+}
