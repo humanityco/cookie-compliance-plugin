@@ -49,6 +49,10 @@ Website: https://cookie-compliance.co/
 Connect guide: https://manual.hu-manity.co/connect/
 Agent manual: https://manual.hu-manity.co/
 
+## Support
+
+Email support@hu-manity.co.
+
 ## Licence
 
 ISC. See the repository for the full licence text.
