@@ -9,5 +9,6 @@
   },
   "homepage": "https://cookie-compliance.co/mcp/",
   "repository": "https://github.com/humanityco/cookie-compliance-plugin",
-  "license": "ISC"
+  "license": "ISC",
+  "privacyPolicyUrl": "https://cookie-compliance.co/privacy-policy/"
 }

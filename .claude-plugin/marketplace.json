@@ -4,6 +4,7 @@
     "name": "Hu-manity",
     "url": "https://hu-manity.co"
   },
+  "description": "Cookie Compliance by Hu-manity: install, configure, preview and manage a cookie consent banner from your AI assistant.",
   "plugins": [
     {
       "name": "cookie-compliance",
