@@ -33,7 +33,7 @@ Then sign in through the browser when prompted.
 
 Claude (claude.ai and Claude Desktop): Customize, then Connectors, then Add custom connector. Name it `Cookie Compliance`, paste `https://mcp.cookie-compliance.co/mcp/account`, choose Sign in now and Register automatically, then approve in the browser.
 
-If sign-in is not possible, create an API token in the Cookie Compliance dashboard (labelled Temporary Login) as an Admin or Super Admin, and send it as an `Authorization: Bearer hu_...` header. Never paste a token into a chat. Tokens expire.
+If browser sign-in is not possible, an Admin or Super Admin can create an API token in the Cookie Compliance dashboard (labelled Temporary Login). Add it to your MCP client as a bearer token in the `Authorization` header, using the client's own secret or environment-variable settings. Do not paste a token into a chat, and do not save it in a file you commit. Tokens expire.
 
 ## Try it without an account
 
@@ -48,6 +48,10 @@ Ask your assistant "Which Cookie Compliance sites can you see?" If it cannot lis
 Website: https://cookie-compliance.co/
 Connect guide: https://manual.hu-manity.co/connect/
 Agent manual: https://manual.hu-manity.co/
+
+## Support
+
+Email support@hu-manity.co.
 
 ## Licence
 
